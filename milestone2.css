@@ -1,0 +1,26 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#container {
+    width: 300px;
+    margin: 50px auto;
+    border: thin solid cadetblue;
+    border-radius: 12px;
+    height: 300px;
+    background-color: rgb(246, 248, 248);
+    padding: 20px;   
+}
+
+#address {
+    text-align: center;
+    line-height: 1.4em;
+}
+
+#header {
+    text-align: center;   
+}
+
+ul li {
+    list-style: none;
+}
